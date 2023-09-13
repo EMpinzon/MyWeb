@@ -9,19 +9,19 @@ mi nombre es edgar mauricio pinzon, soy estudiante de campus, estoy aprendiendo 
 
 ##  objetivos
 
--aprender programacion en el area de backend 
--tener muchos conocimientos y experticia
--trabajar eficientemente 
+- aprender programacion en el area de backend 
+- tener muchos conocimientos y experticia
+- trabajar eficientemente 
 
 ## informacion
 ``` este es mi primer repositorio, estoy aprendiendo a utilizar el readme de los repositorios  ``` 
 
 ## Recursos para aprender ##
 
-    + documentacion
-    + tutoriales
-    + contenido visto en clase 
-    + practicas
++ documentacion
++ tutoriales
++ contenido visto en clase 
++ practicas
 
 
 
